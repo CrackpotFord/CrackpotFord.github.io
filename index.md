@@ -12,7 +12,7 @@ banner  : "/assets/mos1.jpg"
 
 我的学习笔记：
 
-- [**需要用到的数学理论**](https://feng0531.space){:target="_blank"}
+- [**需要用到的数学理论**](https://feng0531.space/math){:target="_blank"}
   - [x] 基础数学：微积分、代数、概率统计；
   - [ ] 正在补充：常微分方程、复变函数与积分变换；
   
